@@ -1,0 +1,11 @@
+id,make,model,date_of_manufacture,ownership
+1,Honda,Civic,2001-05-01,"[{\"owner_name\":\"Ashley Lewis\",\"transfer_date\":\"2013-05-23\",\"state\":\"CO\"},{\"owner_name\":\"John Smith\",\"transfer_date\":\"2001-01-10\",\"state\":\"AL\"},{\"owner_name\":\"Ann Hall\",\"transfer_date\":\"2021-03-15\"},{\"owner_name\":\"Micheal Davis\",\"transfer_date\":\"2022-06-12\"}]",
+2,Honda,Accord,2017-08-05,"[{\"owner_name\":\"Jason Clark\",\"transfer_date\":\"2017-08-06\",\"state\":\"FL\"},{\"owner_name\":\"Anthony Davis\",\"transfer_date\":\"2022-02-20\"},{\"owner_name\":\"Russell Johnson\",\"transfer_date\":\"2018-01-12\"}]",
+3,Ford,Mustang,2019-03-01,"[{\"owner_name\":\"Grace Hernandez\",\"transfer_date\":\"2021-12-01\",\"state\":\"GA\"},{\"owner_name\":\"Martina Anderson\",\"transfer_date\":\"2019-03-10\",\"state\":\"AK\"}]",
+4,BMW,525i,2021-11-10,"[{\"owner_name\":\"Lee Thompson\",\"transfer_date\":\"2021-11-15\",\"state\":\"GA\"},{\"owner_name\":\"Sarah Lopez\",\"transfer_date\":\"2022-03-15\",\"state\":\"AK\"},{\"owner_name\":\"Ryan Smith\",\"transfer_date\":\"2022-05-23\"}]",
+5,BMW,330d,2013-05-20,"[{\"owner_name\":\"Albert Garcia\",\"transfer_date\":\"2021-03-15\",\"state\":\"ID\"},{\"owner_name\":\"George Miller\",\"transfer_date\":\"2013-05-23\",\"state\":\"AZ\"},{\"owner_name\":\"Jane Gonzalez\",\"transfer_date\":\"2015-10-20\",\"state\":\"CA\"}]",
+6,Mercedez Benz,CLA,2022-01-22,"[{\"owner_name\":\"Allison Smith\",\"transfer_date\":\"2022-02-02\",\"state\":\"GA\"},{\"owner_name\":\"Mark Wilson\",\"transfer_date\":\"2022-06-11\"}]",
+7,Tesla,Model 3 Long Range,2021-12-02,"[{\"owner_name\":\"Thomas William\",\"transfer_date\":\"2021-12-03\",\"state\":\"MS\"}]",
+8,Tesla,Model 3,2021-11-06,"[{\"owner_name\":\"Olivia Taylor\",\"transfer_date\":\"2021-11-12\",\"state\":\"AR\"},{\"owner_name\":\"Andrew White\",\"transfer_date\":\"2013-05-23\",\"state\":\"NC\"}]",
+9,Honda,Civic,2018-05-01,"[{\"owner_name\":\"Richard Harris\",\"transfer_date\":\"2020-05-23\",\"state\":\"LA\"},{\"owner_name\":\"Tyler Lee\",\"transfer_date\":\"2018-05-04\",\"state\":\"ND\"}]",
+10,Honda,Accord,2022-03-21,"[{\"owner_name\":\"Nathan Hall\",\"transfer_date\":\"2022-03-23\",\"state\":\"LA\"}]"
