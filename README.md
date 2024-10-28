@@ -1,29 +1,14 @@
-# README #
+# Spark Transform and Aggregate Tutorial
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This repository contains the code and examples for my article on Medium, which introduces the transform and aggregate functions in Apache Spark. You can read the full article here:  
+[**Introduction to Aggregate and Transform Functions in Apache Spark**](https://medium.com/@suffyan.asad1/introduction-to-aggregate-and-transform-functions-in-apache-spark-cfbdb0c57aa8)
 
-### What is this repository for? ###
+### Summary of the Article:
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+This article explores how to use **transform** and **aggregate** functions in Apache Spark for powerful data transformations. Key topics covered include:
 
-### How do I get set up? ###
+- **Transform Functions in Spark**: Learn how to use transform functions to apply row-wise operations on Spark DataFrames.
+- **Aggregate Functions in Spark**: Understand how to use aggregate functions to perform group-wise aggregations in Spark.
+- **Implementing Transform and Aggregate Functions**: Step-by-step examples of how to use these functions in PySpark for real-world data processing tasks.
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+The code in this repository allows you to follow along with the examples in the article and provides hands-on experience in using transform and aggregate functions for data processing in Apache Spark.
